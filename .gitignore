@@ -1,0 +1,5 @@
+*.bin *.elf *.hex *.o *.d
+*.spiffs
+secrets.h config.h
+.vscode/ .idea/ *.code-workspace
+*.log *.bak *.tmp
